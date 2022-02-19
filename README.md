@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Mohammadreza Koohkan :grey_wave:</h1>
+<h1>Hi there, I'm Mohammadreza Koohkan :wave:</h1>
 
 <p align="center"> 
  <strong>
