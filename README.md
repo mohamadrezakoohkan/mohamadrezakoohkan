@@ -14,7 +14,7 @@
 
 - 💬 Ask me about: Swift, Objective-C, React, Rust, Bash
 - 👯 I’m looking to collaborate on: Swift projects
-- You can contact me by [work.koohkan@gmail.com](mailto://work.koohkan@gmail.com)
+- :bowtie: You can contact me by [work.koohkan@gmail.com](mailto://work.koohkan@gmail.com)
 - Find my portfolio on my [personal blog](https://mohamadreza.com/)
 
 [![Mohammadreza's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadrezakoohkan&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/mohamadrezakoohkan?tab=stars)
