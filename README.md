@@ -17,4 +17,4 @@
 
 [![Mohammadreza's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadrezakoohkan&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/mohamadrezakoohkan?tab=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadrezakoohkan&layout=compact&theme=tokyonight)](https://github.com/mohamadrezakoohkan?tab=repositories&q=&type=&language=swift&sort=)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamadrezakoohkan&layout=compact&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamadrezakoohkan&layout=compact&theme=tokyonight)](https://github.com/mohamadrezakoohkan?tab=repositories&q=&type=&language=&sort=stargazers)
