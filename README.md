@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/rust.svg" alt="rust" width="50" height="50" />
 </p>
 
-- :email: Ask me about: Swift, Objective-C, React, Rust, Bash
+- :question: Ask me about: Swift, Objective-C, React, Rust, Bash
 - :family: I’m looking to collaborate on: Swift projects
 - :bowtie: You can contact me by [work.koohkan@gmail.com](mailto://work.koohkan@gmail.com)
 - :globe_with_meridians: Find my portfolio on my [personal blog](https://mohamadreza.com/)
