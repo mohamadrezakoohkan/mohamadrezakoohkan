@@ -9,7 +9,7 @@
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/swift.svg" alt="swift" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/react.svg" alt="react" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/bash.svg" alt="bash" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/terminal.svg" alt="terminal" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/rust.svg" alt="rust" width="50" height="50" />
 </p>
 
